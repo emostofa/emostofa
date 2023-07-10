@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @emostofa
+- 👋 Hi, I’m Mostofa D. Emon
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJS, ReactJS
-- 📫 How to reach me email: emonrahman@icloud.com
--    console.log("Code until sleep,\n Sleep until code")
+- 🌱 I’m currently learning responsiveness, Tailwind, and ReactJS HOC.
+- 📫 How to reach me email: mostofa2311@gmail.com
+- 👌 Coding is interesting if you think it is ! 😃   
 
-<!---
-emostofa/emostofa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
