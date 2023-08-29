@@ -32,7 +32,8 @@ Let's connect and chat! You can find me on:
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emostofa&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=emostofa&color=lightgray&style=for-the-badge&label= )
+
+- ![](https://komarev.com/ghpvc/?username=emostofa&color=lightgray&style=for-the-badge&label=)
 
 
 ## Inspirational Quote
